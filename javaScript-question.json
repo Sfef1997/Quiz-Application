@@ -1,0 +1,74 @@
+[
+  {
+    "title": " What are JavaScript Data Types?",
+    "answer_1": "Number",
+    "answer_2": "String",
+    "answer_3": "Boolean",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "Which symbol is used for comments in Javascript?",
+    "answer_1": "//",
+    "answer_2": "#",
+    "answer_3": ";",
+    "answer_4": "<!-- -->",
+    "right_answer": "//"
+  },
+  {
+    "title": " What would be the result of 3+2+”7″",
+    "answer_1": "12",
+    "answer_2": "57",
+    "answer_3": "35",
+    "answer_4": "All Answers Is wrong",
+    "right_answer": "57"
+  },
+  {
+    "title": "What is an undefined value in JavaScript?",
+    "answer_1": "Variable used in the code doesn’t exist",
+    "answer_2": "Variable is not assigned to any value",
+    "answer_3": "Property does not exist.",
+    "answer_4": "All Solutions Is Right",
+    "right_answer": "All Solutions Is Right"
+  },
+  {
+    "title": "What is the unshift() method?",
+    "answer_1": "method adds one or more elements to the beginning of an array and returns the new length of the array.",
+    "answer_2": "method adds one or more elements to the end of an array and returns the new length of the array.",
+    "answer_3": "method removes the last element from an array and returns that element",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "method adds one or more elements to the beginning of an array and returns the new length of the array."
+  },
+  {
+    "title": " Can an anonymous function be assigned to a variable",
+    "answer_1": "Yes, you can assign an anonymous function to a variable.",
+    "answer_2": "No",
+    "answer_3": "in Java you can ",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "Yes, you can assign an anonymous function to a variable."
+  },
+  {
+    "title": "What is the TypeOf (null) ",
+    "answer_1": "Number",
+    "answer_2": "object",
+    "answer_3": "String",
+    "answer_4": "undefinde",
+    "right_answer": "object"
+  },
+  {
+    "title": "What is the TypeOf (true)",
+    "answer_1": "Number",
+    "answer_2": "object",
+    "answer_3": "String",
+    "answer_4": "boolean",
+    "right_answer": "boolean"
+  },
+  {
+    "title": "Why we Use Math.trunc()",
+    "answer_1": "static method returns the integer part of a number by removing any fractional digits.",
+    "answer_2": "returns the largest integer less than or equal to a given number.",
+    "answer_3": "tatic method returns the largest of the numbers",
+    "answer_4": "All Is Right",
+    "right_answer": "static method returns the integer part of a number by removing any fractional digits."
+  }
+]
