@@ -200,11 +200,11 @@ if(currentIndex === count){
     submitBtn.remove();
     bulltes.remove();
     if(rightAnswers > (count / 2)){
-        theResultes = `<span class="good">good </span> ${rightAnswers} From ${count} is rigth Answer`;
+        theResultes = `<span class="good">good </span> ${rightAnswers} From ${count} is Right Answer`;
     }else if(rightAnswers === count){
             theResultes = `<span class="perfect">perfect </span> All Answers is Right `
     }else{
-                    theResultes = `<span class="bad">bad </span> ${rightAnswers} From ${count} is rigth Answer you Shold lern more.  `
+                    theResultes = `<span class="bad">bad </span> ${rightAnswers} From ${count} is Right Answer you should lern more.  `
 
     }
     resultArea.innerHTML = theResultes
