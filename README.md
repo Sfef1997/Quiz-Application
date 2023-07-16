@@ -25,8 +25,4 @@ This is a quiz game implemented using HTML, CSS, and JavaScript. The game allows
 - The right answers count and the total number of questions are shown.
 - The game hides the question area, answer area, submit button, and bullet points.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to customize this README file to fit your project structure and add any additional information you find necessary.
